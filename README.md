@@ -1,4 +1,4 @@
-# flutter_app_animations_raja
+# flutter_app_animations
 
 A new Flutter application.
 
